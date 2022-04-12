@@ -1,8 +1,8 @@
-This is a Minecraft written in Python
+This is a Minecraft written in Python.
 
-By zifanwang
+By zifanwang.
 
-Based on https://github.com/fogleman/Minecraft
+Based on https://github.com/fogleman/Minecraft.
 
 ## How to run
 
@@ -24,6 +24,11 @@ python main.py
 - ESC/E：release the mouse
 - Space: jump
 - Tab: change mode (flying or walking)
+
+Right click to place blocks,Left click to destroy blocks.
+
+Left-clicking on TNT can make TNT explode.
+
 ### Blocks
 
 1. grass
@@ -36,7 +41,6 @@ python main.py
 8. melon
 9. TNT
 
-##Previous Versions
-
+## Previous Versions
 
 Beta 0.1.0 - First Beta release
