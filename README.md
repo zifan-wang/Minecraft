@@ -14,6 +14,8 @@ cd Minecraft
 python main.py
 ```
 
+Gitee: https://gitee.com/zifanwang/minecraft.git
+
 ## How to play
 ### Moving
 - W: forward
